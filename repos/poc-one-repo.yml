@@ -2,7 +2,7 @@ repository:
   name: settings3
   force_create: true
   auto_init: true
-  description: Description of settings 3 and changed to public message test
+  description: Description of settings 3 and changed to public message test 1
   topics:
   - Github
   - Settings
