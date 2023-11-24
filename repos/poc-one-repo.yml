@@ -1,0 +1,8 @@
+repository:
+  name: settings3
+  force_create: true
+  auto_init: true
+  description: Description of settings 3 and changed to public message
+  topics:
+  - Github
+  - Settings
