@@ -1,0 +1,10 @@
+repository:
+  name: poc5
+  force_create: true
+  auto_init: true
+  description: Description of settings 3 and changed to public message
+  topics:
+    - Github
+    - Settings
+    - poc5
+    - Test
