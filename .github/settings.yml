@@ -49,7 +49,7 @@ repository:
   has_wiki: true
   
   # The default branch for this repository.
-  default_branch: main-enterprise
+  default_branch: main
   
   # Desired language or platform [.gitignore template](https://github.com/github/gitignore) 
   # to apply. Use the name of the template without the extension. 
