@@ -1,7 +1,7 @@
 # This settings can be used to create repo level settings
 repository: 
   # Name of the repo
-  name: testone
+  name: poc3
  
   # Create the repo if it is not existing
   force_create: true
@@ -28,7 +28,7 @@ repository:
   - safe-settings
   - new-topic
   - another-topic
-  - topic-12
+  - topic-14
   
   # Settings for Code security and analysis
   # Dependabot Alerts
