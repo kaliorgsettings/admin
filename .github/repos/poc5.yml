@@ -63,7 +63,7 @@ repository:
   # Desired language or platform [.gitignore template](https://github.com/github/gitignore) 
   # to apply. Use the name of the template without the extension. 
   # For example, "Haskell".
-  gitignore_template: node
+  gitignore_template: java
   
   # Choose an [open source license template](https://choosealicense.com/) 
   # that best suits your needs, and then use the 
