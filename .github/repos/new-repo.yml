@@ -15,7 +15,7 @@ repository:
   description: description of the repo
   
   # A URL with more information about the repository
-  homepage: https://example.github.io/
+  homepage: https://github.com/kaliorgsettings/admin
     
   # Keep this as true for most cases
   # A lot of the policies below cannot be implemented on bare repos
