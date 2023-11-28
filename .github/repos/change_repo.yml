@@ -1,0 +1,8 @@
+repository:
+  name: poc3
+  #force_create: true
+  #auto_init: true
+  description: Description of poc3
+  topics:
+  - Github
+  - Settings
