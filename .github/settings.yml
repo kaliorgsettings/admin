@@ -22,6 +22,7 @@ repository:
   - new-topic
   - another-topic
   - topic-12
+  - topic-13
 
   # Settings for Code security and analysis
   # Dependabot Alerts
