@@ -63,13 +63,13 @@ repository:
   # Desired language or platform [.gitignore template](https://github.com/github/gitignore) 
   # to apply. Use the name of the template without the extension. 
   # For example, "Haskell".
-  gitignore_template: none
+  gitignore_template: Java
   
   # Choose an [open source license template](https://choosealicense.com/) 
   # that best suits your needs, and then use the 
   # [license keyword](https://help.github.com/articles/licensing-a-repository/#searching-github-by-license-type) 
   # as the `license_template` string. For example, "mit" or "mpl-2.0".
-  license_template: mit
+  license_template: None
   
   # Either `true` to allow squash-merging pull requests, or `false` to prevent
   # squash-merging.
