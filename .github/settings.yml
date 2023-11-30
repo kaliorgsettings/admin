@@ -5,7 +5,7 @@ repository:
   # This is the settings that need to be applied to all repositories in the org 
   # See https://docs.github.com/en/rest/reference/repos#create-an-organization-repository for all available settings for a repository  
   # A short description of the repository that will show up on GitHub
-  description: This is admin repo description
+  description: This is admin repo description 1
   
   # A URL with more information about the repository
   homepage: https://github.com/kaliorgsettings
@@ -215,6 +215,6 @@ validator:
 restrictedRepos:
   # You can exclude certain repos from safe-settings processing
   #  If no file is specified, then the following repositories - 'admin', '.github', 'safe-settings' are exempted by default
-  exclude: ['^admin$', '^\.github$', '^safe-settings$', '.*-test', 'poc7']
+  exclude: ['poc7']
   # Alternatively you can only include certain repos
   #include: ['^test$']
