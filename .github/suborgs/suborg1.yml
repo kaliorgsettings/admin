@@ -16,7 +16,7 @@ repository:
   description: Description for sub orgs
   
   # A URL with more information about the repository
-  homepage: https://example.github.io/
+  homepage: https://example2.github.io/
     
   # Keep this as true for most cases
   # A lot of the policies below cannot be implemented on bare repos
