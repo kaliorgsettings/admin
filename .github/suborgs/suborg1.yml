@@ -24,10 +24,10 @@ repository:
   #auto_init: true
     
   # A comma-separated list of topics to set on the repository
-  topics:
-    - github
-    - safe-settings
-    - new-topic
+  topics: [github, probot, new-topic, another-topic, topic-17]
+#    - github
+#    - safe-settings
+#    - new-topic
   #- another-topic
   #- topic-12
   
