@@ -1,7 +1,7 @@
 restrictedRepos:
   # You can exclude certain repos from safe-settings processing
   #  If no file is specified, then the following repositories - 'admin', '.github', 'safe-settings' are exempted by default
-  exclude: ['^admin$', '^\.github$', '^safe-settings$', '^poc10$']
+  exclude: ['^admin$', '^\.github$', '^safe-settings$', 'poc10$']
   # Alternatively you can only include certain repos
   include: ['^poc1$', '^poc2$', '^poc3$', '^poc4$', '^poc5$', '^poc6$', '^poc7$', '^poc8$', '^poc9$']
 configvalidators:
