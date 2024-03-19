@@ -1,5 +1,6 @@
 suborgrepos:
-  - poc*
+  - poc1
+  - poc2
 
 
 repository:
