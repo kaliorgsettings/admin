@@ -6,6 +6,7 @@ suborgrepos:
 suborgteams:
   - suborgteam
   - suborgteam2
+  - suborgteam3
 
 repository:
   description: A template for platform services
