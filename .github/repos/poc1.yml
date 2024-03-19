@@ -41,17 +41,17 @@ repository:
 # The following attributes are applied to any repo within the org
 # So if a repo is not listed above is created or edited
 # The app will apply the following settings to it
-labels:
-  include:
-    - name: bugtwo
-      color: d73a4a
-      description: An issue with the system
-    - name: do-not-merge
-      color: d73a4a
-      description: Do not merge the PR
-    - name: do-not-mergelevel
-      color: d73a4a
-      description: Do not merge the PR
+# labels:
+#   include:
+#     - name: bugtwo
+#       color: d73a4a
+#       description: An issue with the system
+#     - name: do-not-merge
+#       color: d73a4a
+#       description: Do not merge the PR
+#     - name: do-not-mergelevel
+#       color: d73a4a
+#       description: Do not merge the PR
       # exclude:
       #   # don't delete any labels created on GitHub that starts with "release"
       #   - name: ^release
@@ -61,13 +61,13 @@ labels:
 # * `pull` - can pull, but not push to or administer this repository.
 # * `push` - can pull and push, but not administer this repository.
 # * `admin` - can pull, push and administer this repository.
-teams:
-  - name: X-Platform
-    permission: admin
-  - name: RnD
-    permission: push
-  - name: delivery
-    permission: pull
+# teams:
+#   - name: X-Platform
+#     permission: admin
+#   - name: RnD
+#     permission: push
+#   - name: delivery
+#     permission: pull
 
 autolinks:
   - key_prefix: XPLAT-
