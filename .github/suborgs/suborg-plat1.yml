@@ -19,7 +19,7 @@ repository:
     - template-project
     - hello-world
     - helloworld
-    - service
+    - service123
 
   # Keep this as true for most cases
   # A lot of the policies below cannot be implemented on bare repos
