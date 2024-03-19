@@ -2,8 +2,8 @@
 
 # List of repos that belong to the suborg
 suborgrepos:
-  - poc2
-  - poc3
+  - poc2-backup
+  - poc3-backup
 # You can use Glob patterns
 
 #suborgteams:
