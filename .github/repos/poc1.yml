@@ -61,13 +61,13 @@ repository:
 # * `pull` - can pull, but not push to or administer this repository.
 # * `push` - can pull and push, but not administer this repository.
 # * `admin` - can pull, push and administer this repository.
-# teams:
-#   - name: X-Platform
-#     permission: admin
-#   - name: RnD
-#     permission: push
-#   - name: delivery
-#     permission: pull
+teams:
+  - name: X-Platform
+    permission: admin
+  - name: RnD
+    permission: push
+  - name: deliveryrepolevel
+    permission: pull
 
 autolinks:
   - key_prefix: XPLAT-
