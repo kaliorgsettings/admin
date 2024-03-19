@@ -146,10 +146,6 @@ labels:
 teams:
   - name: RnDdev
     permission: push
-  - name: X-Platform
-    permission: admin    
-  - name: delivery
-    permission: pull
   # Visibility is only honored when the team is created not for existing teams.
   # It can be either secret (default) or closed (visible to all members of the org)
   # - name: globalteam
