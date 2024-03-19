@@ -52,21 +52,21 @@ labels:
       color: 8F6555
     - name: ci/cd1
       color: C35B0E
-    - name: deploy1
+    - name: deploy123
       color: 15D21E
-    - name: docker2
+    - name: docker223
       color: 87A89A
-    - name: docs3
+    - name: docs332
       color: 0075ca
-    - name: garden4
+    - name: garden423
       color: ededed
-    - name: go6
+    - name: go623
       color: 95558F
-    - name: java
+    - name: java23231
       color: AB3A4F
-    - name: python
+    - name: python232
       color: 88AAFF
-    - name: restapi
+    - name: restapi34
       color: 5D0CE6
 
 

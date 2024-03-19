@@ -44,7 +44,7 @@ repository:
 # The app will apply the following settings to it
 labels:
   include:
-    - name: bug
+    - name: bug12
       color: d73a4a
     - name: do-not-merge
       color: FF0000
