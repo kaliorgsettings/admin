@@ -42,32 +42,32 @@ repository:
 # The following attributes are applied to any repo within the org
 # So if a repo is not listed above is created or edited
 # The app will apply the following settings to it
-labels:
-  include:
-    - name: bugone
-      color: d73a4a
-    - name: do-not-merge1
-      color: FF0000
-    - name: charts2
-      color: 8F6555
-    - name: ci/cd1
-      color: C35B0E
-    - name: deploy123
-      color: 15D21E
-    - name: docker223
-      color: 87A89A
-    - name: docs332
-      color: 0075ca
-    - name: garden423
-      color: ededed
-    - name: go623
-      color: 95558F
-    - name: java23231
-      color: AB3A4F
-    - name: python232
-      color: 88AAFF
-    - name: restapi34987
-      color: 5D0CE6
+# labels:
+#   include:
+#     - name: bugone
+#       color: d73a4a
+#     - name: do-not-merge1
+#       color: FF0000
+#     - name: charts2
+#       color: 8F6555
+#     - name: ci/cd1
+#       color: C35B0E
+#     - name: deploy123
+#       color: 15D21E
+#     - name: docker223
+#       color: 87A89A
+#     - name: docs332
+#       color: 0075ca
+#     - name: garden423
+#       color: ededed
+#     - name: go623
+#       color: 95558F
+#     - name: java23231
+#       color: AB3A4F
+#     - name: python232
+#       color: 88AAFF
+#     - name: restapi34987
+#       color: 5D0CE6
 
 
 # Collaborators: give specific users access to any repository.
