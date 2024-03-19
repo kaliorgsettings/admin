@@ -1,5 +1,5 @@
 repository:
-  name: poc1
+  name: poc1-back
   #force_create: true
   #auto_init: true
   description: Description of poc1 and changed to public message
