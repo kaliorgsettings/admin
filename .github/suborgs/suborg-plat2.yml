@@ -91,8 +91,10 @@ labels:
 # * `push` - can pull and push, but not administer this repository.
 # * `admin` - can pull, push and administer this repository.
 teams:
-  - name: X-Platform
-    permission: admin
+  - name: delivery
+    permission: pull
+  - name: deliverypush
+    permission: push  
     # exclude:
     #   - actions-demo
 # You can exclude a list of repos for this collaborator and all repos except these repos would have this collaborator
