@@ -43,23 +43,23 @@ repository:
 # So if a repo is not listed above is created or edited
 # The app will apply the following settings to it
 labels:
-  - name: bug
+  - name: bugone
     color: d73a4a
-  - name: do-not-merge
+  - name: do-not-merge1
     color: FF0000
-  - name: charts
+  - name: charts2
     color: 8F6555
-  - name: ci/cd
+  - name: ci/cd1
     color: C35B0E
-  - name: deploy
+  - name: deploy1
     color: 15D21E
-  - name: docker
+  - name: docker2
     color: 87A89A
-  - name: docs
+  - name: docs3
     color: 0075ca
-  - name: garden
+  - name: garden4
     color: ededed
-  - name: go
+  - name: go6
     color: 95558F
   - name: java
     color: AB3A4F
