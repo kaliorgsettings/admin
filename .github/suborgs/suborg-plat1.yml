@@ -42,32 +42,32 @@ repository:
 # The following attributes are applied to any repo within the org
 # So if a repo is not listed above is created or edited
 # The app will apply the following settings to it
-# labels:
-#   include:
-#     - name: bug12
-#       color: d73a4a
-#     - name: do-not-merge
-#       color: FF0000
-#     - name: charts
-#       color: 8F6555
-#     - name: ci/cd
-#       color: C35B0E
-#     - name: deploy
-#       color: 15D21E
-#     - name: docker
-#       color: 87A89A
-#     - name: docs
-#       color: 0075ca
-#     - name: garden
-#       color: ededed
-#     - name: go
-#       color: 95558F
-#     - name: java
-#       color: AB3A4F
-#     - name: python
-#       color: 88AAFF
-#     - name: restapi
-#       color: 5D0CE6
+labels:
+  include:
+    - name: bug12
+      color: d73a4a
+    - name: do-not-merge
+      color: FF0000
+    - name: charts
+      color: 8F6555
+    - name: ci/cd
+      color: C35B0E
+    - name: deploy
+      color: 15D21E
+    - name: docker
+      color: 87A89A
+    - name: docs
+      color: 0075ca
+    - name: garden
+      color: ededed
+    - name: go
+      color: 95558F
+    - name: java
+      color: AB3A4F
+    - name: python
+      color: 88AAFF
+    - name: restapi
+      color: 5D0CE6
 
 
 # Collaborators: give specific users access to any repository.
@@ -102,8 +102,8 @@ teams:
     permission: admin
   - name: RnD
     permission: push
-  - name: RnD1
-    permission: push
+  # - name: RnD1
+  #   permission: push
     # exclude:
     #   - actions-demo
 # You can exclude a list of repos for this collaborator and all repos except these repos would have this collaborator
