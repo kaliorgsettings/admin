@@ -144,7 +144,7 @@ labels:
 # * `push` - can pull and push, but not administer this repository.
 # * `admin` - can pull, push and administer this repository.
 teams:
-  - name: RnD
+  - name: RnDdev
     permission: push
     # - name: delivery
     # permission: pull
