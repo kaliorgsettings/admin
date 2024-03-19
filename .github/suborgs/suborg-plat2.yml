@@ -3,7 +3,7 @@ suborgrepos:
   - poc2
   - poc3
 
-suborgteams
+suborgteams:
   - suborgteam
   - suborgteam2
 
