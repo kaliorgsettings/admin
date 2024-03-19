@@ -3,10 +3,10 @@ suborgrepos:
   - poc2
   - poc3
 
-suborgteams:
-  - suborgteam
-  - suborgteam2
-  - suborgteam3
+# suborgteams:
+#   - suborgteam
+#   - suborgteam2
+#   - suborgteam3
 
 repository:
   description: A template for platform services
