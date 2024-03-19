@@ -43,30 +43,31 @@ repository:
 # So if a repo is not listed above is created or edited
 # The app will apply the following settings to it
 labels:
-  - name: bugone
-    color: d73a4a
-  - name: do-not-merge1
-    color: FF0000
-  - name: charts2
-    color: 8F6555
-  - name: ci/cd1
-    color: C35B0E
-  - name: deploy1
-    color: 15D21E
-  - name: docker2
-    color: 87A89A
-  - name: docs3
-    color: 0075ca
-  - name: garden4
-    color: ededed
-  - name: go6
-    color: 95558F
-  - name: java
-    color: AB3A4F
-  - name: python
-    color: 88AAFF
-  - name: restapi
-    color: 5D0CE6
+  include:
+    - name: bugone
+      color: d73a4a
+    - name: do-not-merge1
+      color: FF0000
+    - name: charts2
+      color: 8F6555
+    - name: ci/cd1
+      color: C35B0E
+    - name: deploy1
+      color: 15D21E
+    - name: docker2
+      color: 87A89A
+    - name: docs3
+      color: 0075ca
+    - name: garden4
+      color: ededed
+    - name: go6
+      color: 95558F
+    - name: java
+      color: AB3A4F
+    - name: python
+      color: 88AAFF
+    - name: restapi
+      color: 5D0CE6
 
 
 # Collaborators: give specific users access to any repository.
