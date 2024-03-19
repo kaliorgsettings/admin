@@ -3,6 +3,10 @@ suborgrepos:
   - poc4
   - poc1
 
+suborgteams:
+  - suborgteam
+  - suborgteam2
+
 repository:
   description: A template for platform services
   # homepage: https://github.com/uniphore/
