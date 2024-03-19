@@ -1,5 +1,7 @@
 suborgrepos:
-  - p*
+  - poc3
+  - poc4
+  - poc1
 
 repository:
   description: A template for platform services
