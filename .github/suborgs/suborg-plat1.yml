@@ -5,7 +5,7 @@ suborgrepos:
 
 suborgteams:
   - suborgteam3
-  - suborgteam2024
+# - suborgteam2024
 #  - suborgteam3
 
 repository:
