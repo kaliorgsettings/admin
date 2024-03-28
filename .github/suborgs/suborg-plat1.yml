@@ -4,8 +4,8 @@ suborgrepos:
   - poc1
 
 suborgteams:
-  - suborgteam
-#  - suborgteam2
+  - suborgteam3
+  - suborgteam2024
 #  - suborgteam3
 
 repository:
