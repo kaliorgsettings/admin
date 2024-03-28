@@ -9,7 +9,7 @@ suborgrepos:
 #   - suborgteam3
 
 repository:
-  description: A template for platform services
+  description: A template for platform services description
   # homepage: https://github.com/uniphore/
   topics:
     - x-platform
