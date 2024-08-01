@@ -16,3 +16,6 @@ suborgproperties:
 - EDP: true
 
 # Every other property is the same as the org level settings and can be overridden here
+repository:
+  # A short description of the repository that will show up on GitHub
+  description: description of the suborg repo
