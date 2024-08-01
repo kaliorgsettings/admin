@@ -208,6 +208,6 @@ autolinks:
   - key_prefix: 'MYLINK-'
     url_template: 'https://mywebsite.com/<num>'
         
-validator:
-  pattern: '[a-zA-Z0-9_-]+_[a-zA-Z0-9_-]+.*' 
+#validator:
+  #pattern: '[a-zA-Z0-9_-]+_[a-zA-Z0-9_-]+.*' 
   #pattern: '[a-zA-Z0-9_-]+'
