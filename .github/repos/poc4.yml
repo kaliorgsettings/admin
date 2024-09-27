@@ -7,6 +7,6 @@ repository:
   # Use a template when creating the repo
   template: template_repo
 
-  description: description of the repo settings individual repo validation
+  description: description of the repo settings individual repo validation on 27th sep
 
 # Every other property is the same as the org level settings and can be overridden here
